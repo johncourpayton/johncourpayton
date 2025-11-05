@@ -1,6 +1,6 @@
 ## 💻 Payton Johncour
 
-I'm a current student at Orange Coast College with a current goal of transfering to University of California Irvine to obtain a degree in Computer Science and Engineering. I love to write code, build cool things, and learn more about hardware and software and how it is capable of changing the world.
+I'm a current student at Orange Coast College with a goal of transfering to University of California Irvine to obtain a degree in Computer Science and Engineering. I love to write code, build cool things, and learn more about hardware and software and how it is capable of changing the world.
 
 ---
 
@@ -33,8 +33,6 @@ Here are some of the technologies and tools I enjoy working with:
 ---
 
 ### 📲 Let's Connect!
-
-I'm always open to connecting with fellow students, developers, and enthusiasts. Feel free to reach out!
 
 * **LinkedIn:** www.linkedin.com/in/payton-johncour-2b403136b
 * **Portfolio/Website:** in the works
