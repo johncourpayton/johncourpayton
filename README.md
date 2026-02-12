@@ -1,4 +1,4 @@
-### Payton Johncour
+### payton j
 
 I'm a current student at Orange Coast College with a goal of transfering to University of California Irvine to obtain a degree in Computer Science and Engineering. I love to write code, build cool things, and learn more about hardware and software and how it is capable of changing the world.
 
