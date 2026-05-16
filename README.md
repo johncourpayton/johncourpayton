@@ -1,43 +1,38 @@
 ### payton j
 
-I'm a current student at Orange Coast College with a goal of transfering to University of California Irvine to obtain a degree in Computer Science and Engineering. I love to write code, build cool things, and learn more about hardware and software and how it is capable of changing the world.
+I'm a current student at Orange Coast College studying computer engineering with a strong interest in robotics and computer vision related projects.
 
 ---
 
 ### What I'm Up To
 
-* **Currently learning:** Python and integration of ML and Computer Vision in my software projects
-* **Exploring:** Embedded systems and microcontroller integration into projects
+* **Currently learning:** Hardware integration and autonomous navigation using computer vision and sensors
+* **Exploring:** Aerial vehicla navigation and drone technology
 * **Looking for:** Internship opportunities and fellow students interested in collaborating on projects
 
 ---
-
-Here are some of the technologies and tools I enjoy working with:
-
 **Relevant Course Work:**
-* `C++ 1 / 2`
 * `Data Structures in C++`
-* `Java`
 * `Python`
 * `Discrete Structures`
 
 **Languages:**
 * `C++`
-* `Java`
+* `C`
 * `Python`
-* `Microcontrollers`
 
 **Frameworks & Libraries:**
-* `C++ STL Library`
-* `TensorFlow`
-* `PyTorch`
+* `OpenCV`
+* `TensorFlow & PyTorch`
+* `ROS 2`
 
 **Tools & Platforms:**
-* `IDE's : VisualStudio, VS Code, ArduinoIDE, CLion, PyCharm, IntelliJ, Cursor`
+* `Hardware Platforms: NVIDIA Jetson Orin Nano, STM32, RasperryPi, Arduino`
+* `IDE : VSCode, ArduinoIDE, STM32Cube, AntiGravity, Cursor`
+* `Google Colab & Jupyter Notebooks`
 * `CAD Design : Fusion360, SolidWorks, Shaper3D`
 * `GitHub`
 * `AI Tools`
-* `Google Colab`
 ---
 
 ### Reach me here
