@@ -28,17 +28,16 @@ I'm a current student at Orange Coast College studying computer engineering with
 
 **Tools & Platforms:**
 * `Hardware Platforms: NVIDIA Jetson Orin Nano, STM32, RasperryPi, Arduino`
-* `IDE : VSCode, ArduinoIDE, STM32Cube, AntiGravity, Cursor`
+* `IDE : VSCode, ArduinoIDE, STM32Cube,AntiGravity, Cursor`
 * `Google Colab & Jupyter Notebooks`
-* `CAD Design : Fusion360, SolidWorks, Shaper3D`
-* `GitHub`
-* `AI Tools`
+* `CAD Design : Fusion360, SolidWorks`
+* `AI Tools : ClaudeCode, CLI Tooling`
 ---
 
 ### Reach me here
 
-* **LinkedIn:** www.linkedin.com/in/payton-johncour-2b403136b
+* **LinkedIn:** www.linkedin.com/in/paytonjohncour
 * **Portfolio/Website:** in the works
-* **Email:** johncourpayton.2025@gmail.com
+* **Email:** paytonjohncour.2025@gmail.com
 
 ---
